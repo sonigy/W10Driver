@@ -13,8 +13,8 @@ The application Win10Driver, installs and saves drivers and also safely removes 
 
 ## Instructions
 **Install** - Wait, this may take some time. Do not close the program during driver installation!
-Select the folder to which you made backup earlier. (The program installs `*.inf` files in folders and subfolders).
-**Backup** - Prepares (exports) drivers to a folder, save the folder for installing drivers in the future.
+Select the folder to which you made backup earlier. (The program installs `*.inf` files in folders and subfolders).\
+**Backup** - Prepares (exports) drivers to a folder, save the folder for installing drivers in the future.\
 **Remove duplicate** - `Safe` removes drivers that are older versions and are not used by the OS.
 
 ## Requirements specification:
