@@ -21,7 +21,7 @@ Select the folder to which you made backup earlier. (The program installs `*.inf
 All versions of Windows 10 32 & 64 bit
 
 ## Download
-**66kb** - [W10Driver](https://github.com/Eugene-Gubar/W10Driver/raw/master/W10Driver.exe)
+[W10Driver](https://github.com/Eugene-Gubar/W10Driver/raw/master/W10Driver.exe) | **66kb**
 
 ## Checksum
 W10Driver - `7830A30A400B50211DBABE059D5CBDBAF467BF29379E1561EE2608CB1ED537A2`
