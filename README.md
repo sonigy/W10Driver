@@ -4,7 +4,7 @@
 
 The application Win10Driver, installs and saves drivers and also safely removes old versions of drivers.
 
-![Win10Driver main image](https://github.com/Eugene-Gubar/W10Driver/blob/master/Win10Driver-screen.jpg)
+![Win10Driver main image](https://github.com/Eugene-Gubar/W10Driver/blob/master/Win10Driver-screen(1).png)
 
 ## Features
 * Useful for reinstalling the OS
