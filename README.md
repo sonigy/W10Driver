@@ -24,7 +24,7 @@ All versions of Windows 10 32 & 64 bit
 [W10Driver](https://github.com/Eugene-Gubar/W10Driver/raw/master/W10Driver.exe) | **66kb**
 
 ## Checksum
-W10Driver - **SHA-256:** `7830A30A400B50211DBABE059D5CBDBAF467BF29379E1561EE2608CB1ED537A2`
+**SHA-256:** `7830A30A400B50211DBABE059D5CBDBAF467BF29379E1561EE2608CB1ED537A2`
 
 ## Author
 Was created by [Eugene Gubar](https://github.com/Eugene-Gubar)
