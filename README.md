@@ -1,10 +1,10 @@
-![Win10Driver logo](https://github.com/Eugene-Gubar/W10Driver/blob/master/Win10Driver-128%20(o).png)
+![Win10Driver logo](images/Win10Driver-128%20(o).png)
 
 # Win10Driver
 
 The application Win10Driver, installs and saves drivers, also safely removes old versions of drivers.
 
-![Win10Driver main image](https://github.com/Eugene-Gubar/W10Driver/blob/master/Win10Driver-screen(1).png)
+![Win10Driver main image](images/Win10Driver%20-%201280.jpg)
 
 ## Features
 * Useful for reinstalling the OS
@@ -30,4 +30,4 @@ All versions of Windows 10 32 & 64 bit
 Was created by [Eugene Gubar](https://github.com/Eugene-Gubar)
 
 ## License
-This project is licensed under the MIT [License](https://github.com/Eugene-Gubar/W10Driver/blob/master/LICENSE)
+This project is licensed under the MIT [License](images/LICENSE)
