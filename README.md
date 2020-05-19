@@ -12,7 +12,7 @@ The application Win10Driver, installs and saves drivers, also safely removes old
   (when installing drivers from the backup folder, it installs only the drivers (.inf) necessary for the OS)
 
 ## Instructions
-**Install** - Wait, this may take some time. Do not close the program during driver installation!
+**Install** - Select a folder with drivers for example: `Backup drivers - dd.mm.yyyy`. Wait, this may take some time. Do not close the program during driver installation!
 Select the folder to which you made backup earlier. (The program installs `*.inf` files from folders and subfolders).\
 **Backup** - Prepares (exports) drivers to a folder, save the folder for installing drivers in the future.\
 **Remove duplicate** - `Safe` removes drivers that are older versions and are not used by the OS.
@@ -21,10 +21,10 @@ Select the folder to which you made backup earlier. (The program installs `*.inf
 All versions of Windows 10 32 & 64 bit
 
 ## Download
-[W10Driver](https://github.com/Eugene-Gubar/W10Driver/raw/master/W10Driver.exe) | **66.50 KB**
+[W10Driver ver.1.11](W10Driver%20ver.1.11.exe) | **67 KB**
 
 ## Checksum
-**SHA-256:** `24B652FC2689341BCD6010A77CEF514DCBEA502BC6864CBA14E1575C81305F9A`
+**SHA-256:** `CE7F9E79F4AD57B6FE77A9AC834B9F9433D872F1B3D0863526CD3FA4C7CF2D77`
 
 ## Author
 Was created by [Eugene Gubar](https://github.com/Eugene-Gubar)
