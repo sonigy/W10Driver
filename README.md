@@ -24,7 +24,7 @@ All versions of Windows 10 32 & 64 bit
 [W10Driver ver.1.11](https://github.com/Eugene-Gubar/W10Driver/raw/master/W10Driver%20ver.1.11.exe) | **67 KB**
 
 ## Checksum
-**SHA-256:** `CE7F9E79F4AD57B6FE77A9AC834B9F9433D872F1B3D0863526CD3FA4C7CF2D77`
+**SHA-256:** `321010E86FF9CF1B5682FFAAF78F1CA06E86E23B011C6C1FA26312A71B290AA7`
 
 ## Author
 Was created by [Eugene Gubar](https://github.com/Eugene-Gubar)
